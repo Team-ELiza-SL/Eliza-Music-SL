@@ -148,6 +148,6 @@ sudo python3 main.py # run the bot.
 
 
 #### Special Credits
-#### • VEEZ  »»  <a href="https://github.com/levina-lab" alt="VeezMusicProjects"> <img src="https://img.shields.io/badge/levina-lab-92CALA?logo=github" /></a> 
-#### • SHADOW  »»  <a href="https://github.com/Deshadeeth-Thisarana" alt="DeshadeethThisarana"> <img src="https://img.shields.io/badge/Shadow-92CALA?logo=github" /></a> 
+#### • VEEZ  »»  <a href="https://github.com/levina-lab" alt="VeezMusicProjects"> <img src="https://img.shields.io/badge/VeezMusicProjects-30302f?logo=github" /></a> 
+#### • SHADOW  »»  <a href="https://github.com/Deshadeeth-Thisarana" alt="DeshadeethThisarana"> <img src="https://img.shields.io/badge/Shadow-30302f?logo=github" /></a> 
 
