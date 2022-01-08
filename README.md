@@ -140,4 +140,9 @@ sudo python3 main.py # run the bot.
 ```
 
 
+#### Contributors
+#### • SEHATH PERERA   »»  <a href="https://github.com/PereraSehath" alt="SehathPerera"> <img src="https://img.shields.io/badge/PereraSehath-107D8D?logo=github" /></a> Owner|Dev
+#### • JONATHAN   »»  <a href="https://github.com/DarkSkull93" alt="Jonathan"> <img src="https://img.shields.io/badge/DarkSkull93-107D8D?logo=github" /></a> Owner|Dev
+#### • THILINA WEERASEKARA   »»  <a href="https://github.com/Thilinaweerasekara2003" alt="Thilina"> <img src="https://img.shields.io/badge/Thilinaweerasekara2003-107D8D?logo=github" /></a> Dev
+#### • DESHADEETH THISARANA   »»  <a href="https://github.com/Deshadeeth-Thisarana" alt="Deshadeeth"> <img src="https://img.shields.io/badge/Deshadeeth-Thisarana-107D8D?logo=github" /></a> Dev
 
