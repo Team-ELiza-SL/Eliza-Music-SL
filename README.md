@@ -1,6 +1,6 @@
 <h1 align="center">❤️𝗘𝗹𝗶𝘇𝗮 𝗠𝘂𝘀𝗶𝗰❤️</h1>
 
-## Unmaintained. The new repo of @MrsaElizaRobot is private. 
+## Unmaintained. The new repo of @MrsElizaRobot is private. 
 (It is no longer based on this source code. The completely rewritten bot available now on telegram)
 
 ## JUST ANOTHER MODIFIED UNMAINTAINED SOURCE CODE
