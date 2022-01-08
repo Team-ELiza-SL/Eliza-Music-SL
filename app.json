@@ -1,94 +1,93 @@
 {
-    "name": "Eliza Music Bot",
+    "name": "Eliza Music",
+    "description": "ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ғᴏʀ sᴛʀᴇᴀᴍɪɴɢ ᴠɪᴅᴇᴏ & ᴍᴜsɪᴄ ᴛʀᴏᴜɢʜᴛ ᴛʜᴇ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏ ᴄʜᴀᴛ.",
     "logo": "https://te.legra.ph/file/3cbc7167d67e07a915a08.jpg",
-    "description": "Eliza music allow you to stream music trought the telegram voice chat feature.",
     "keywords": [
-        "music", 
-        "voice chat", 
-        "telegram"
+        "pytgcalls",
+        "telegram bot",
+        "video stream",
+        "pyrogram"
     ],
+    "website": "https://t.me/Updates_of_ElizaBot",
     "repository": "https://github.com/Team-ELiza-SL/Eliza-Music-SL",
-    "stack": "container",
+    "success_url": "https://github.com/Team-ELiza-SL",
     "env": {
-        "SESSION_NAME": {
-            "description": "fill with the pyrogram session string",
-            "required": true
-        },
-        "BOT_TOKEN": {
-            "description": "fill with your bot token from @BotFather",
-            "required": true
-        },
-        "BOT_NAME": {
-            "description": "fill with your music bot name.",
-            "required": true,
-            "value": ""
-        },
-        "OWNER_ID": {
-            "description": "fill with your telegram id as the owner of the bot",
-            "required": true,
-            "value": "2118765584"
-        },
-        "DATABASE_URL": {
-            "description": "fill with the mongodb url you get from cloud.mongodb.com",
-            "required": true,
-            "value": ""
-        },
-        "LOG_CHANNEL": {
-            "description": "create a private channel and get the channel id (give the channel username/link to bot @username_to_id_bot and get the channel id), add your bot as admin to the channel too",
-            "required": true,
-            "value": ""
-        },
-        "BOT_USERNAME": {
-            "description": "fill with your bot username without @",
-            "required": true,
-            "value": "MrsElizaRobot"
-        },
-        "ASSISTANT_NAME": {
-            "description": "fill with the assistant username without @",
-            "required": true,
-            "value": "ElizaAssistantHelper3"
-        },
-        "BG_IMAGE": {
-            "description": "fill with your costum background image link",
-            "required": false,
-            "value": "https://te.legra.ph/file/3cbc7167d67e07a915a08.jpg"
-        },
-        "OWNER_NAME": {
-            "description": "fill with your telegram username without @",
-            "required": false,
-            "value": "ElizaAssistantHelper3"
-        },
-        "ALIVE_NAME": {
-            "description": "fill with the nickname of your telegram account",
-            "required": false,
-            "value": "Eliza"
-        },
         "API_ID": {
-            "description": "your Api ID from my.telegram.org/apps",
+            "description": "your API_ID from my.telegram.org",
             "required": true
         },
         "API_HASH": {
-            "description": "your Api Hash from my.telegram.org/apps",
+            "description": "your API_HASH from my.telegram.org",
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "your bot token from @BotFather",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "your bot username without @",
+            "required": true
+        },
+        "BOT_NAME": {
+            "description": "fill with your bot name from @BotFather",
+            "required": true
+        },
+        "ASSISTANT_NAME": {
+            "description": "fill with the assistant username account without @",
+            "required": true
+        },
+        "SESSION_NAME": {
+            "description": "fill with the pyrogram String Session",
             "required": true
         },
         "SUDO_USERS": {
-            "description": "fill with the user id who can access all function in your bot (separate with space).",
+            "description": "list of user ids to be added to sudo member list, or just fill with your id",
             "required": true
         },
-        "DURATION_LIMIT": {
-            "description": "max duration for music to download (in minutes, default is 40).",
+        "GROUP_SUPPORT": {
+            "description": "if you have group, then fill the group username here without @",
             "required": true,
-            "value": "40"
+            "value": "ElizaSupporters"
+        },
+        "DURATION_LIMIT": {
+            "description": "then fill the duration limit here",
+            "required": true,
+            "value": "920"
         },
         "UPDATES_CHANNEL": {
-            "description": "if you have channel, fill the channel username here without @",
-            "required": false,
+            "description": "if you have channel then fill the channel username here without ",
+            "required": true,
             "value": "Updates_of_ElizaBot"
         },
-        "GROUP_SUPPORT": {
-            "description": "if you have group, fill the group username here without @",
-            "required": false,
-            "value": "ElizaSupporters"
+        "OWNER_NAME": {
+            "description": "fill with your telegram account username without @",
+            "required": true,
+            "value": "ElizaAssistantHelper3"
+        },
+        "IMG_1": {
+            "description": "fill with your link to a photo you like",
+            "required": true,
+            "value": "https://te.legra.ph/file/05adc7804e4a2a6c585e7.jpg"
+        },
+        "IMG_2": {
+            "description": "fill with your link to a photo you like",
+            "required": true,
+            "value": "https://te.legra.ph/file/d597355893313860a80b8.jpg"
+        },
+        "IMG_3": {
+            "description": "fill with your link to a photo you like",
+            "required": true,
+            "value": "https://te.legra.ph/file/6e111169c0e96c7ecc1a0.jpg"
+        },
+        "ALIVE_IMG": {
+            "description": "fill with your link to a photo you like",
+            "required": true,
+            "value": "https://te.legra.ph/file/dc9a6c8946a738e8145af.jpg"
+        },
+        "ALIVE_NAME": {
+            "description": "fill with your telegram account nickname/name",
+            "required": true,
+            "value": "Eliza"
         }
     },
     "addons": [],
@@ -108,5 +107,6 @@
             "quantity": 1,
             "size": "free"
         }
-    }
+    },
+    "stack": "container"
 }
