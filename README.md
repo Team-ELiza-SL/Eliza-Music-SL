@@ -33,3 +33,22 @@
 - Python 3.8 or higher
 - [MongoDB](https://cloud.mongodb.com/)
 - [2nd Telegram Account](https://telegram.org/blog/themes-accounts#multiple-accounts) (needed for userbot)
+
+
+
+### Easy Way
+## Deploy To Heroku
+go to[@TeamEliza](https://github.com/TeamEliza) for the new repo
+
+
+<details>
+  <summary><b>Deploy on Heroku</b></summary>
+<br>
+
+<p align="left">
+  <a href="https://heroku.com/deploy?template=https://github.com/Team-ELiza-SL/Eliza-Music-SL">
+     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku">
+  </a>
+</p>
+  
+</details>
