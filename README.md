@@ -31,7 +31,6 @@
 - FFmpeg
 - NodeJS [deb.nodesource.com](https://deb.nodesource.com/)
 - Python 3.8 or higher
-- [MongoDB](https://cloud.mongodb.com/)
 - [2nd Telegram Account](https://telegram.org/blog/themes-accounts#multiple-accounts) (needed for userbot)
 
 
