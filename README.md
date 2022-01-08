@@ -7,7 +7,7 @@
 ### ⚠️ PLEASE NOTE EVERYONE MODIFY, DEPLOY OR FORK THIS SOURCE CODE
 #### This source code is unmaintained. We recommend you not to use this source code. Why Don't Use 👇
 - Not maintained
-- Older version of Daisy [NEW ONE CLOSED SOURCE]
+- Older version of Annie [NEW ONE CLOSED SOURCE]
 - Not compatible with latest updates of requirements
 
 <p align="center">
