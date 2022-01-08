@@ -8,6 +8,3 @@ WORKDIR /app
 RUN pip3 install --no-cache-dir --upgrade --requirement requirements.txt
 
 CMD ["python3", "main.py"]
-© 2021 GitHub, Inc.
-Terms
-© 2022 GitHub, Inc.
