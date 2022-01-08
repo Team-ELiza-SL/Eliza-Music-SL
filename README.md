@@ -177,7 +177,7 @@ ElizaMusic is Free Software: You can use, study share and improve it at your wil
 
 > This project exists thanks to these awesome developers and their codes and contributions.
 
-<a href="https://github.com/Team-ELiza-SL/Eliza-Music-SL/graphs/contributors"><img src="https://opencollective.com/Team-ELiza-SLEliza-Music-SL/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/Team-ELiza-SL/Eliza-Music-SL/graphs/contributors"><img src="https://opencollective.com/Team-ELiza-SL/Eliza-Music-SL/contributors.svg?width=890&button=false" /></a>
 
 > And credits goes to all who supported, all who helped and API & environmental equirement package devs and all projects helped in making this project.
 > Special thanks to you for using bot.
