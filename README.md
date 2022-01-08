@@ -146,3 +146,8 @@ sudo python3 main.py # run the bot.
 #### • THILINA WEERASEKARA   »»  <a href="https://github.com/Thilinaweerasekara2003" alt="Thilina"> <img src="https://img.shields.io/badge/ThilinaWeerasekara93-92CALA?logo=github" /></a> Dev
 #### • DESHADEETH THISARANA   »»  <a href="https://github.com/Deshadeeth-Thisarana" alt="Deshadeeth"> <img src="https://img.shields.io/badge/Deshadeeth-Thisarana-92CALA?logo=github" /></a> Dev
 
+
+#### Special Credits
+#### • VEEZ  »»  <a href="https://github.com/levina-lab" alt="VeezMusicProjects"> <img src="https://img.shields.io/badge/levina-lab-92CALA?logo=github" /></a> 
+#### • SHADOW  »»  <a href="https://github.com/Deshadeeth-Thisarana" alt="DeshadeethThisarana"> <img src="https://img.shields.io/badge/Shadow-92CALA?logo=github" /></a> 
+
