@@ -1,6 +1,6 @@
 <h1 align="center">❤️𝗘𝗹𝗶𝘇𝗮 𝗠𝘂𝘀𝗶𝗰❤️</h1>
 
-## Unmaintained. The new repo of @ElizaRobot is private. 
+## Unmaintained. The new repo of @MrsaElizaRobot is private. 
 (It is no longer based on this source code. The completely rewritten bot available now on telegram)
 
 ## JUST ANOTHER MODIFIED UNMAINTAINED SOURCE CODE
@@ -119,7 +119,7 @@ go to[@TeamEliza](https://github.com/TeamEliza) for the new repo
 - `/blocklist` - show the list of all people who's blocked for using your bot
 
 ## 🔎 Inline Search Support
-- just type the bot username in any chat, example: "`@ElizaRobot Ghost Justin Bieber`", then bot will give you a results of the query you search in inline mode.
+- just type the bot username in any chat, example: "`@MrsElizaRobot Ghost Justin Bieber`", then bot will give you a results of the query you search in inline mode.
 
 
 ## VPS Deployment 📡
@@ -159,7 +159,7 @@ sudo python3 main.py # run the bot.
 <a href="https://t.me/Updates_of_ElizaBot"><img src="https://img.shields.io/badge/Telegram-Join%20Updates%20Channel-blue.svg?logo=telegram"></a>
 
 
-## This Bot is clone of [@ElizaRobot](https://t.me/ElizaRobot). So all credits goes to them.
+## This Bot is clone of [@ElizaRobot](https://t.me/MrsElizaRobot). So all credits goes to them.
 
 
 
