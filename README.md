@@ -37,7 +37,7 @@
 
 
 ### Easy Way
-## Deploy To Heroku
+## Deploy To Heroku <img src="./etc/Kenpurple.gif" width="40px">
 go to[@TeamEliza](https://github.com/TeamEliza) for the new repo
 
 
