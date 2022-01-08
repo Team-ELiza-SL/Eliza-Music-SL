@@ -151,3 +151,36 @@ sudo python3 main.py # run the bot.
 #### • VEEZ  »»  <a href="https://github.com/levina-lab" alt="VeezMusicProjects"> <img src="https://img.shields.io/badge/VeezMusicProjects-30302f?logo=github" /></a> 
 #### • SHADOW  »»  <a href="https://github.com/Deshadeeth-Thisarana" alt="DeshadeethThisarana"> <img src="https://img.shields.io/badge/Shadow-30302f?logo=github" /></a> 
 
+
+### Support Group 🇱🇰
+<a href="https://t.me/ElizaSupporters"><img src="https://img.shields.io/badge/Telegram-Join%20Support%20Group-blue.svg?logo=telegram"></a>
+ 
+### Updates Channel 🇱🇰
+<a href="https://t.me/Updates_of_ElizaBot"><img src="https://img.shields.io/badge/Telegram-Join%20Updates%20Channel-blue.svg?logo=telegram"></a>
+
+
+## This Bot is clone of [@ElizaRobot](https://t.me/ElizaRobot). So all credits goes to them.
+
+
+
+## Copyright & License 👮
+
+ - Copyright (C) 2020 - 2021 by [TeamELiza](github.com/Team-ELiza-SL) ❤️️
+ - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/Team-ELiza-SL/Eliza-Music-SL/blob/master/LICENSE)
+    
+ElizaMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.    
+## Made with ♥️ by [TeamEliza](https://github.com/Team-ELiza-SL)
+
+
+
+
+## All who helped at a glance 
+
+> This project exists thanks to these awesome developers and their codes and contributions.
+
+<a href="https://github.com/Team-ELiza-SL/Eliza-Music-SL/graphs/contributors"><img src="https://opencollective.com/Team-ELiza-SLEliza-Music-SL/contributors.svg?width=890&button=false" /></a>
+
+> And credits goes to all who supported, all who helped and API & environmental equirement package devs and all projects helped in making this project.
+> Special thanks to you for using bot.
+
+
