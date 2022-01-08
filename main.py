@@ -1,26 +1,15 @@
-import requests
+import asyncio
 from pytgcalls import idle
-from callsmusic import run
-from handlers import __version__
-from pyrogram import Client as Bot
-from config import API_HASH, API_ID, BG_IMAGE, BOT_TOKEN
+from driver.veez import call_py, bot
 
+async def start_bot():
+    print("[INFO]: STARTING BOT CLIENT")
+    await bot.start()
+    print("[INFO]: STARTING PYTGCALLS CLIENT")
+    await call_py.start()
+    await idle()
+    print("[INFO]: STOPPING BOT & USERBOT")
+    await bot.stop()
 
-response = requests.get(BG_IMAGE)
-with open("./etc/foreground.png", "wb") as file:
-    file.write(response.content)
-
-
-bot = Bot(
-    ":memory:",
-    API_ID,
-    API_HASH,
-    bot_token=BOT_TOKEN,
-    plugins=dict(root="handlers"),
-)
-
-print(f"[INFO]: ELIZA MUSIC v{__version__} STARTED !")
-
-bot.start()
-run()
-idle()
+loop = asyncio.get_event_loop()
+loop.run_until_complete(start_bot())
